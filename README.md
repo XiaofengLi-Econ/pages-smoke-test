@@ -1,0 +1,2 @@
+# pages-smoke-test
+test
